@@ -1,10 +1,14 @@
 # Handwritten-Digit-Recognition
 Handwritten Digit Recognition (Predict the digit drawn in Paint)
 
-Part 1: Collect the images of digits (0-9)
+Part 1: Collect the images of digits (0-9).
+
 Part 2: Generate dataset through collected images.
+
 Part 3: Train the model and calculate the accuracy.
+
 Part 4: Live prediction of digits.
+
 Part 5: Converting Project into GUI interface.
 
 The Project is completed in the major sections (parts 1-4).
